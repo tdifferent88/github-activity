@@ -1,11 +1,10 @@
-# GitHub Activity CLI
+# GitHub Activity
 
-Projeto em Python que busca a atividade recente de um usuário do GitHub usando a API oficial do GitHub.
+Projeto Python que busca atividades recentes de usuários do GitHub usando a API oficial.
 
-## Tecnologias
-- Python
-- Requests
-- GitHub API
+## Roadmap.sh Project
+
+https://roadmap.sh/projects/github-user-activity
 
 ## Como executar
 
